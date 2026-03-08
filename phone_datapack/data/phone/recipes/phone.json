@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " W ",
+  "WGW",
+  " W "
+ ],
+ "key": {
+  "W": {"item": "minecraft:white_concrete"},
+  "G": {"item": "minecraft:glass_pane"}
+ },
+ "result": {
+  "id": "minecraft:warped_fungus_on_a_stick",
+  "components": {
+    "minecraft:custom_model_data": 4535,
+    "minecraft:custom_name": "{\"text\":\"Phone\",\"color\":\"aqua\"}"
+  }
+ }
+}
